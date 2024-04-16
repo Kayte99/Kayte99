@@ -1,5 +1,5 @@
 ### Hi there 👋
-Nice to meet you!
-I'm Katherine Harrison. A Frontend Developer
+Nice to meet you! <br/>
+I'm Katherine Harrison. A Frontend Developer <br/>
 Looking Forward to meet you!
 
